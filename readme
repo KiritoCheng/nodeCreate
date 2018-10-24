@@ -1,0 +1,7 @@
+<code>$ npm install hello</code>
+<p>
+<code>var</code> 变量 <code>= require('hellokirito')</code>
+</p>
+<p>
+变量<code>.hello('...')</code>
+</p>
